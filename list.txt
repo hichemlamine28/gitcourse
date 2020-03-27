@@ -20,4 +20,6 @@ glace
 
 
 animaux
-
+rex
+bell
+loussi
